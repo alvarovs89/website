@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I hold a Master's degree in Data Science from Edith Cowan University, complementing my background in Industrial Engineering in Chile. My deep passion for technology, especially in the realms of machine learning and Artificial Intelligence, drives my relentless pursuit of knowledge and my proactive approach to learning. I am a responsible and methodical professional, equipped with strong analytical skills and excellent interpersonal abilities that enable me to collaborate effectively with both teams and customers. With a solution-oriented mindset, I strive to achieve optimal efficiency and effectiveness within organizational settings. Moreover, I pride myself on being adaptable to various industries and areas, constantly seeking opportunities to apply my skills and contribute to diverse environments.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Hacker",
+  // "User experience",
+  // "Inclusive design",
+  // "Focus group testing",
+  // "Mobile user interfaces",
+  // "Graphic design",
 ];
 
 /**
